@@ -33,3 +33,6 @@ O programa retornará a solução única e correta, onde `S` é a estrutura fina
 
 ```prolog
 S = fila(paraquedista(vermelho,larissa,'9:00',40,publicitaria,alessandro),paraquedista(azul,camila,'9:30',30,empresaria,eduardo),paraquedista(branco,sofia,'10:00',35,atriz,luciano),paraquedista(amarelo,isabela,'11:00',45,arquiteta,jorge),paraquedista(verde,taina,'10:30',25,corretora,sergio))
+
+
+<img width="933" height="548" alt="Captura de tela 2025-11-04 175811" src="https://github.com/user-attachments/assets/70ff02c7-7907-421c-91e2-7043b1f798dc" />
